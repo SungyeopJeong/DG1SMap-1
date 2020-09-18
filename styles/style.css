@@ -1,0 +1,23 @@
+* {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 100;
+}
+
+body {
+    padding-top: 80px;
+}
+
+h1 {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 700;
+}
+
+p {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 400;
+}
+
+.navbar-brand {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 900;
+}
